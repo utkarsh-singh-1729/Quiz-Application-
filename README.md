@@ -25,11 +25,6 @@ A modern quiz application built with React and Firebase, featuring real-time upd
 - Firebase account
 - npm/yarn
 
-```bash
-# Clone repository
-git clone https://github.com/yourusername/quizmaster.git
-cd quizmaster
-
 # Install dependencies
 npm install
 # or
